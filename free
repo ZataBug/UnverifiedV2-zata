@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1SciBoQq161YtbR3NoQENaS2DzMFV4q1qOxM9efED-5g/edit?usp=sharing
 hitboxの方で、修正で、
 ・.mblx.jsで書き出す。
 ・hitboxを表示したままエンティティが、描画範囲外に行ったら、
